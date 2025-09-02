@@ -25,7 +25,7 @@ The **AirMouse Host** runs on your Windows or macOS machine and enables your pho
 ## 🚀 Installation
 
 1. Download the installer for your operating system above.  
-2. Run the installer (`AirMouseSetup.exe` on Windows, `AirMouse.dmg` on macOS).  
+2. Run the installer
 3. Follow the on-screen instructions.  
 4. Open **AirMouse Host** and make sure your phone app is connected to the same network.  
 
@@ -33,9 +33,8 @@ The **AirMouse Host** runs on your Windows or macOS machine and enables your pho
 
 ## 📌 Notes
 
-- This repository only hosts **release installers**.  
-- For support, bug reports, or updates, please check the [Issues page](https://github.com/<username>/<repo>/issues).  
-- If you’re looking for the AirMouse phone app, please see the App Store / Google Play.  
+- This repository only hosts **release installers**.   
+- If you’re looking for the AirMouse phone app, please see the App Store  
 
 ---
 
