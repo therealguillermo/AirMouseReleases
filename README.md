@@ -11,7 +11,7 @@ You can always find the latest version on the [Releases page](https://github.com
 
 ### Latest Direct Downloads
 - 🪟 **Windows (64-bit):** [Download AirMouse Host for Windows](https://github.com/therealguillermo/AirMouseReleases/releases/download/1.1/AirMouse-Setup-1.1.exe)  
-- 🍎 **macOS (Intel/Apple Silicon):** [Download AirMouse Host for macOS](https://github.com/<username>/<repo>/releases/latest/download/AirMouse.dmg)
+- 🍎 **macOS (Intel/Apple Silicon):** [Download AirMouse Host for macOS](https://github.com/therealguillermo/AirMouseReleases/releases/download/1.1DMG/AirMouse.dmg)
 
 ---
 
