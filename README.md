@@ -1,6 +1,4 @@
-# AirMouseReleases
-
-# AirMouse Host – Downloads
+# AirMouseReleases =-= AirMouse Host – Downloads
 
 This repository is dedicated to distributing release builds of the **AirMouse Host** application.  
 It contains **no source code**—only installers for **Windows Desktop PC** and **macOS**.
