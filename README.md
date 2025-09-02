@@ -7,7 +7,7 @@ It contains **no source code**—only installers for **Windows Desktop PC** and 
 
 ## 📥 Download AirMouse Host
 
-You can always find the latest version on the [Releases page](https://github.com/<username>/<repo>/releases).
+You can always find the latest version on the [Releases page](https://github.com/therealguillermo/AirMouseReleases/releases).
 
 ### Latest Direct Downloads
 - 🪟 **Windows (64-bit):** [Download AirMouse Host for Windows](https://github.com/therealguillermo/AirMouseReleases/releases/download/1.1/AirMouse-Setup-1.1.exe)  
